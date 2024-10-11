@@ -17,5 +17,5 @@ This is a simple **To-Do List** application built using HTML, CSS, and JavaScrip
 ## How to Run the Project:
 1. Clone the repository:
    ```bash
-   git clone <URL of your repository>
+   git clone https://github.com/MilosPetrovic-programmer/Simple-To-Do-list
 2. Open index.html in your browser to use the app.
